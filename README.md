@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/Lvx8WdQ.png" height="80%" width="80%" alt="textwrap logo"/>
+ <img src="https://i.imgur.com/Lvx8WdQ.png" height="80%" width="80%" alt="textreveal logo"/>
 </p>
 
 <h1>Text Wrapping in Microsoft Word</h1>
@@ -22,38 +22,38 @@ Today, let's delve into the intriguing world of Microsoft PowerPoint and discove
 Your first step is to insert any image you'd like, and make it fully expands the screen. Use the arrows or crop tool to make sure your image fits the entire slide.
 
  <br/>
-<img src="https://i.imgur.com/1JyBggx.jpg" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/1JyBggx.jpg" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 Under the "Format" tab, find "Shapes" icon box, click a rectangle shape.
  <br/>
-<img src="https://i.imgur.com/EcUtfyK.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/EcUtfyK.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 Make sure your rectangle shape covers the entire slide. Color it any color you'd like, I chose black. 
 
  <br/>
-<img src="https://i.imgur.com/7kk3elx.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/7kk3elx.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 Insert a text box and type any text you'd like. Enlarge your text so it fills the screen and change the color of the text to white so that you can see it.
 <br/>
-<img src="https://i.imgur.com/fZefzGe.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/fZefzGe.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 This is the most important step and it has to be done in this order for it to work. Click the black rectangle first, click the text second, and finally find the "merge shapes" icon and click "Combine".
  <br/>
-<img src="https://i.imgur.com/0PCoD5p.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/0PCoD5p.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 And there you go. You can also animate the background or even add video. Looks great!
  <br/>
-<img src="https://i.imgur.com/K9eXX7B.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/K9eXX7B.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
   I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/VQ7tgm7.png" height="80%" width="80%" alt="textwrap"/>
+<img src="https://i.imgur.com/VQ7tgm7.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
 
