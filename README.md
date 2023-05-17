@@ -41,7 +41,7 @@ Insert a text box and type any text you'd like. Enlarge your text so it fills th
 <img src="https://i.imgur.com/fZefzGe.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
-This is the most important step and it has to be done in this order for it to work. Click the black rectangle first, click the text second, and finally find the "merge shapes" icon and click "Combine".
+This is the most important step and it has to be done in this order for it to work. Hold down the SHIFT button on your keyboard, click the black rectangle first, click the text second, and finally find the "merge shapes" icon and click "Combine".
  <br/>
 <img src="https://i.imgur.com/0PCoD5p.png" height="80%" width="80%" alt="textreveal"/>
 <br />
