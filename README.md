@@ -19,7 +19,7 @@ Today, let's delve into the intriguing world of Microsoft PowerPoint and discove
 <p align="center">
 
 <br />
-Your first step is to insert any image you'd like, and make it fully expands the screen. Use the arrows or crop tool to make sure your image fits the entire slide.
+Your first step is to insert any image you'd like, and make it fully expand the screen. Use the arrows or crop tool to make sure your image fits the entire slide.
 
  <br/>
 <img src="https://i.imgur.com/1JyBggx.jpg" height="80%" width="80%" alt="textreveal"/>
