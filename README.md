@@ -46,17 +46,21 @@ This is the most important step and it has to be done in this order for it to wo
 <img src="https://i.imgur.com/0PCoD5p.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
-And there you go. You can also animate the background or even add video. Looks great!
+We are finished. You can also animate the background or even add video. Looks great!
  <br/>
 <img src="https://i.imgur.com/K9eXX7B.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
-  I hope you enjoyed this demonstration.
+  By changing the background and adding your own images you can really add life to your PowerPoint slides.
  <br/>
-<img src="https://i.imgur.com/VQ7tgm7.png" height="80%" width="80%" alt="textreveal"/>
+<img src="https://i.imgur.com/W2WA25i.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
-
+ I hope you enjoyed this demonstration.
+ <br/>
+<img src="https://i.imgur.com/5PUL11U.png" height="80%" width="80%" alt="textreveal"/>
+<br />
+<br />
  
 </p>
 
