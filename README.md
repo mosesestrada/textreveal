@@ -58,7 +58,7 @@ We are finished. You can also animate the background or even add video. Looks gr
 <br />
  I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/5PUL11U.png" height="80%" width="80%" alt="textreveal"/>
+<img src="https://i.imgur.com/rOdxJsJ.png" height="80%" width="80%" alt="textreveal"/>
 <br />
 <br />
  
