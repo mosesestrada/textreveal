@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/RTWv7I9.png" height="80%" width="80%" alt="textreveal logo"/>
 </p>
 
-<h1>Text Wrapping in Microsoft Word</h1>
+<h1>Text Reveal Effect in PowerPoint</h1>
 
 
 <h2>Description</h2>
