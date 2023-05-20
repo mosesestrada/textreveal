@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/RTWv7I9.png" height="80%" width="80%" alt="textreveal logo"/>
+ <img src="https://i.imgur.com/lljROTh.png" height="80%" width="80%" alt="textreveal logo"/>
 </p>
 
 <h1>Text Reveal Effect in PowerPoint</h1>
